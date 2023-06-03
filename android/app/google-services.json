@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106627008216",
+    "project_id": "iosnotification-6cf6f",
+    "storage_bucket": "iosnotification-6cf6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106627008216:android:c3b0d0393f30ab3047f9ad",
+        "android_client_info": {
+          "package_name": "com.adeleye.iosnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106627008216-prj7fh0uaf3a54jnm7krrlghn4tn8pm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbi7cTwGrXAc0KFgmQoWYr_3JNENuDt-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106627008216-prj7fh0uaf3a54jnm7krrlghn4tn8pm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
